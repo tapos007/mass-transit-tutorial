@@ -9,7 +9,7 @@ namespace ReceiverApp
 {
     public class EventSenderTut : IConsumer<Product>
     {
-        public async Task gConsume(ConsumeContext<Product> context)
+        public async Task Consume(ConsumeContext<Product> context)
         {
             var tt = context.Message;
         }
