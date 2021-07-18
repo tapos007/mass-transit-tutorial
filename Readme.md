@@ -11,4 +11,5 @@ MassTransit is a free, open-source distributed application framework for .NET. M
 - Request Response
 
 ### [Slide for understanding message broker link click to enter](https://docs.google.com/presentation/d/1xioyPf6JcAWMqEw56-rdwqsmbgy_Cc9P9Q07Y4vrf5E/edit?usp=sharing ).
+### [Subscribe my youtube channel to get more video series ](https://www.youtube.com/channel/UC6mhc_TreAAstlY85VRk5aQ ).
 
